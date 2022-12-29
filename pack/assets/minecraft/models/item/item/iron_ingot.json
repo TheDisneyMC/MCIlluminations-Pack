@@ -1,0 +1,29 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/iron_ingot"
+        },
+	
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":2}, "model": "custom/mk/tl/mk-tl-trash-can"},
+		{"predicate": {"custom_model_data":3}, "model": "custom/mk/ms/mk-ms-trash-can"},
+		{"predicate": {"custom_model_data":5}, "model": "custom/generic/generic-trash-can"},
+		{"predicate": {"custom_model_data":10}, "model": "custom/mk/tl/mi/mk-tl-mi-fastpass-sign"},
+		{"predicate": {"custom_model_data":13}, "model": "custom/item/item-autograph-book"},
+		{"predicate": {"custom_model_data":14}, "model": "custom/item/tech/item-tech-smartphone"},
+		{"predicate": {"custom_model_data":17}, "model": "custom/mk/lm/mk-lm-octopus"},
+		{"predicate": {"custom_model_data":18}, "model": "custom/mk/lm/mk-lm-ursula"},
+		{"predicate": {"custom_model_data":19}, "model": "custom/mk/lm/mk-lm-ursula-head"},
+		{"predicate": {"custom_model_data":20}, "model": "custom/mk/lm/mk-lm-ursula-body"},
+		{"predicate": {"custom_model_data":21}, "model": "custom/mk/lm/mk-lm-ursula-left-arm"},
+		{"predicate": {"custom_model_data":22}, "model": "custom/mk/lm/mk-lm-ursula-right-arm"},
+		{"predicate": {"custom_model_data":33}, "model": "custom/item/gun/item-gun-bullet"},
+		{"predicate": {"custom_model_data":49}, "model": "custom/lamps/black-lamp-post"},
+		{"predicate": {"custom_model_data":50}, "model": "custom/lamps/spruce-plant-lamp-post"},
+		{"predicate": {"custom_model_data":51}, "model": "custom/benches/spruce-black-bench"},
+		{"predicate": {"custom_model_data":52}, "model": "custom/lamps/dark-black-short-lamp-post"},
+		{"predicate": {"custom_model_data":53}, "model": "custom/nature/nature-hanging-pot"},
+		{"predicate": {"custom_model_data":54}, "model": "custom/nature/nature-hanging-pot-flowers"}
+	]
+}
