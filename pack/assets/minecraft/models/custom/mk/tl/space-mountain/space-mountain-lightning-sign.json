@@ -220,8 +220,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [13.5, -11.25, 21],
-			"scale": [3, 3, 3]
+			"translation": [10.75, -11.25, 21],
+			"scale": [2.4, 2.4, 2.4]
 		}
 	},
 	"groups": [

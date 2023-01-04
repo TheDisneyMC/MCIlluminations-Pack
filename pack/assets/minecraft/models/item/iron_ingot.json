@@ -3,7 +3,7 @@
         "textures": {
           "layer0": "minecraft:item/iron_ingot"
         },
-	
+		
 	"overrides":[
 	
 		{"predicate": {"custom_model_data":2}, "model": "custom/mk/tl/mk-tl-trash-can"},
