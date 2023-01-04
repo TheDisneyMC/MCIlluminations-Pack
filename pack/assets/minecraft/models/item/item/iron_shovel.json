@@ -32,6 +32,10 @@
 		{"predicate": {"custom_model_data":38}, "model": "custom/item/gun/item-gun-golden"},
 		{"predicate": {"custom_model_data":39}, "model": "custom/item/gun/item-gun-dynamite"},
 		{"predicate": {"custom_model_data":42}, "model": "custom/item/item-sunglasses"},
-		{"predicate": {"custom_model_data":46}, "model": "custom/item/item-gold-wings-staff"}
+		{"predicate": {"custom_model_data":46}, "model": "custom/item/item-gold-wings-staff"},
+		{"predicate": {"custom_model_data":47}, "model": "custom/mk/tl/space-mountain/space-mountain-car"},
+		{"predicate": {"custom_model_data":48}, "model": "custom/mk/tl/space-mountain/space-mountain-sign"},
+		{"predicate": {"custom_model_data":49}, "model": "custom/mk/tl/space-mountain/space-mountain-standby-sign"},
+		{"predicate": {"custom_model_data":50}, "model": "custom/mk/tl/space-mountain/space-mountain-lightning-sign"}
 	]
 }
