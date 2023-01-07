@@ -804,8 +804,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [8, -29.5, 11.5],
-			"scale": [1.7, 1.7, 1.7]
+			"translation": [7.25, -31.25, 10],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
