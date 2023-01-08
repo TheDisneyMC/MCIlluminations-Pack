@@ -387,8 +387,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, 0, -1.25],
-			"scale": [3, 3, 3]
+			"translation": [0, -17.75, -1.25],
+			"scale": [1.6, 1.6, 1.6]
 		}
 	},
 	"groups": [
