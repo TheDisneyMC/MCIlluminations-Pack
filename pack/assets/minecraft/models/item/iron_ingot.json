@@ -27,6 +27,7 @@
 		{"predicate": {"custom_model_data":54}, "model": "custom/nature/nature-hanging-pot-flowers"},
 		{"predicate": {"custom_model_data":55}, "model": "custom/nature/antlers-small"},
 		{"predicate": {"custom_model_data":56}, "model": "custom/nature/antlers"},
-		{"predicate": {"custom_model_data":57}, "model": "custom/mk/frontier-trading-post-sign"}
+		{"predicate": {"custom_model_data":57}, "model": "custom/mk/frontier-trading-post-sign"},
+		{"predicate": {"custom_model_data":58}, "model": "custom/mk/frontierland-shootin-arcade-sign"}
 	]
 }
