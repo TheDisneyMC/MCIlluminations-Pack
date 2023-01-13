@@ -31,6 +31,7 @@
 		{"predicate": {"custom_model_data":37}, "model": "custom/item/gun/item-gun-silver"},
 		{"predicate": {"custom_model_data":38}, "model": "custom/item/gun/item-gun-golden"},
 		{"predicate": {"custom_model_data":39}, "model": "custom/item/gun/item-gun-dynamite"},
+		{"predicate": {"custom_model_data":40}, "model": "custom/item/gun/rifle"},
 		{"predicate": {"custom_model_data":42}, "model": "custom/item/item-sunglasses"},
 		{"predicate": {"custom_model_data":46}, "model": "custom/item/item-gold-wings-staff"},
 		{"predicate": {"custom_model_data":47}, "model": "custom/mk/tl/space-mountain/space-mountain-car"},
