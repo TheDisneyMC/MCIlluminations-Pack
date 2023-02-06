@@ -11,6 +11,7 @@
 		{"predicate": {"custom_model_data":15}, "model": "custom/mk/lm/mk-lm-car"},
 		{"predicate": {"custom_model_data":16}, "model": "custom/mk/tl/people-mover/people-mover-car"},
 		{"predicate": {"custom_model_data":17}, "model": "custom/mk/7-dwarfs-minetrain"},
+		{"predicate": {"custom_model_data":18}, "model": "custom/mk/small-world-car"},
 		{"predicate": {"custom_model_data":200}, "model": "custom/mk/tl/speedway-car"}
 	]
 }
