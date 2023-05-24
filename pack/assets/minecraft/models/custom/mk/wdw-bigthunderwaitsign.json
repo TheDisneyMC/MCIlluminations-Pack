@@ -7,7 +7,7 @@
 		"3": "item/custom/mk/btmsigntexture3",
 		"4": "item/custom/mk/btmsigntexture4",
 		"5": "item/custom/mk/btmsigntexture5",
-		"particle": "block/texture1"
+		"particle": "item/custom/mk/btmsigntexture1"
 	},
 	"elements": [
 		{
