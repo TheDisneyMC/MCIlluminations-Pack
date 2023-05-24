@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/texture",
-		"1": "block/btm wait time sign numbers",
-		"2": "block/texture",
-		"3": "block/texture",
-		"4": "block/texture",
-		"5": "block/texture",
-		"particle": "block/texture"
+		"0": "item/custom/mk/btmsigntexture1",
+		"1": "item/custom/mk/btm wait time sign numbers",
+		"2": "item/custom/mk/btmsigntexture2",
+		"3": "item/custom/mk/btmsigntexture3",
+		"4": "item/custom/mk/btmsigntexture4",
+		"5": "item/custom/mk/btmsigntexture5",
+		"particle": "block/texture1"
 	},
 	"elements": [
 		{
