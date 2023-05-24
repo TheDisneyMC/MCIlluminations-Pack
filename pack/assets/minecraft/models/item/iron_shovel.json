@@ -38,5 +38,6 @@
 		{"predicate": {"custom_model_data":48}, "model": "custom/mk/tl/space-mountain/space-mountain-sign"},
 		{"predicate": {"custom_model_data":49}, "model": "custom/mk/tl/space-mountain/space-mountain-standby-sign"},
 		{"predicate": {"custom_model_data":50}, "model": "custom/mk/tl/space-mountain/space-mountain-lightning-sign"}
+		{"predicate": {"custom_model_data":51}, "model": "custom/mk/wdw-bigthunderwaitsign"}
 	]
 }
