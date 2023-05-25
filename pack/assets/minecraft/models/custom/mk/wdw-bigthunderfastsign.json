@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "texture2",
-		"3": "texture3",
-		"4": "texture4",
-		"6": "btmllnewfont",
-		"7": "texture7",
-		"8": "texture8",
-		"9": "texture9",
-		"particle": "texture1"
+		"2": "item/custom/mk/btmfasttexture2",
+		"3": "item/custom/mk/btmfasttexture3",
+		"4": "item/custom/mk/btmfasttexture4",
+		"6": "item/custom/mk/btmfastbtmllnewfont",
+		"7": "item/custom/mk/btmfasttexture7",
+		"8": "item/custom/mk/btmfasttexture8",
+		"9": "item/custom/mk/btmfasttexture9",
+		"particle": "item/custom/mk/btmfasttexture1"
 	},
 	"elements": [
 		{
