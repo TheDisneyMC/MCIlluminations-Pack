@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "texturefur1",
-		"2": "texturefur2",
-		"3": "texturefur3",
-		"4": "texturefur4",
-		"5": "texturefur5",
-		"6": "texturefur6",
-		"7": "texturefur7",
-		"8": "texturefur8",
-		"9": "texturefur9",
-		"10": "texturefur10",
-		"11": "texturetail"
+		"1": "item/custom/mk/texturefur1",
+		"2": "item/custom/mk/texturefur2",
+		"3": "item/custom/mk/texturefur3",
+		"4": "item/custom/mk/texturefur4",
+		"5": "item/custom/mk/texturefur5",
+		"6": "item/custom/mk/texturefur6",
+		"7": "item/custom/mk/texturefur7",
+		"8": "item/custom/mk/texturefur8",
+		"9": "item/custom/mk/texturefur9",
+		"10": "item/custom/mk/texturefur10",
+		"11": "item/custom/mk/texturetail"
 	},
 	"elements": [
 		{
