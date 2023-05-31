@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/White Face",
-		"1": "block/White unibrow",
-		"2": "block/Gold nose",
+		"0": "block/White_Face",
+		"1": "block/White_unibrow",
+		"2": "block/Gold_nose",
 		"4": "block/Eyes",
 		"5": "block/Cheeks",
-		"7": "block/Gold smile",
-		"8": "block/Gold trim",
-		"9": "block/Gold roof",
-		"10": "block/Gold dot",
+		"7": "block/Gold_smile",
+		"8": "block/Gold_trim",
+		"9": "block/Gold_roof",
+		"10": "block/Gold_dot",
 		"particle": "block/White Face"
 	},
 	"elements": [
