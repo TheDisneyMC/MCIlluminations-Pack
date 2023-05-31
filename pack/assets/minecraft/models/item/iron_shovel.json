@@ -39,6 +39,7 @@
 		{"predicate": {"custom_model_data":49}, "model": "custom/mk/tl/space-mountain/space-mountain-standby-sign"},
 		{"predicate": {"custom_model_data":50}, "model": "custom/mk/tl/space-mountain/space-mountain-lightning-sign"},
 		{"predicate": {"custom_model_data":51}, "model": "custom/mk/wdw-bigthunderwaitsign"},
-		{"predicate": {"custom_model_data":52}, "model": "custom/mk/wdw-bigthunderfastsign"}
+		{"predicate": {"custom_model_data":52}, "model": "custom/mk/wdw-bigthunderfastsign"},
+		{"predicate": {"custom_model_data":53}, "model": "custom/mk/wdw-smallworldfacesign"}
 	]
 }
