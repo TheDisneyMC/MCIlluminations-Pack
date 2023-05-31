@@ -10,7 +10,7 @@
 		"8": "block/Gold_trim",
 		"9": "block/Gold_roof",
 		"10": "block/Gold_dot",
-		"particle": "block/White Face"
+		"particle": "block/White_Face"
 	},
 	"elements": [
 		{
