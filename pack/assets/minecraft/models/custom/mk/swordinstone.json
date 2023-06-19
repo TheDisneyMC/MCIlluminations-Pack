@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/texturesword1",
-		"1": "block/texturesword2",
-		"2": "block/texturesword3",
-		"3": "block/texturehandle1",
-		"4": "block/texturehandle2",
-		"5": "block/texturehandle3",
-		"6": "block/texturehandle4"
+		"0": "item/custom/mk/texturesword1",
+		"1": "item/custom/mk/texturesword2",
+		"2": "item/custom/mk/texturesword3",
+		"3": "item/custom/mk/texturehandle1",
+		"4": "item/custom/mk/texturehandle2",
+		"5": "item/custom/mk/texturehandle3",
+		"6": "item/custom/mk/texturehandle4"
 	},
 	"elements": [
 		{
