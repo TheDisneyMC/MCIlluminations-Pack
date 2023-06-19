@@ -5,8 +5,6 @@
         },
 	
 	"overrides":[
-	
-		{"predicate": {"custom_model_data":2}, "model": "custom/mk/swordinstone"}
-		
+		{"predicate": {"custom_model_data":2}, "model": "custom/mk/swordpull"}
 	]
 }
