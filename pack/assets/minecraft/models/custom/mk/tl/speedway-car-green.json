@@ -4,7 +4,7 @@
 		"0": "block/smooth_stone",
 		"1": "block/anvil",
 		"2": "block/black_concrete",
-		"3": "block/orange_concrete",
+		"3": "block/lime_concrete",
 		"4": "block/white_concrete",
 		"5": "block/gray_concrete",
 		"particle": "block/smooth_stone"
