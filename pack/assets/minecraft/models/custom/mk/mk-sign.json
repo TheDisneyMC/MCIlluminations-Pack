@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/texturemksign1",
-		"1": "block/texturemksign2",
-		"2": "block/texturemksign3",
-		"3": "block/texturemksign4",
-		"4": "texturemksignfrontfinal",
-		"particle": "block/texturemksign1"
+		"0": "item/custom/mk/texturemksign1",
+		"1": "item/custom/mk/texturemksign2",
+		"2": "item/custom/mk/texturemksign3",
+		"3": "item/custom/mk/texturemksign4",
+		"4": "item/custom/mktexturemksignfrontfinal",
+		"particle": "item/custom/mk/texturemksign1"
 	},
 	"elements": [
 		{
