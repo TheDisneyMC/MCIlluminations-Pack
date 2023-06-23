@@ -31,6 +31,6 @@
 		{"predicate": {"custom_model_data":58}, "model": "custom/mk/frontierland-shootin-arcade-sign"},
 		{"predicate": {"custom_model_data":59}, "model": "custom/mk/mk-fsa-coin-slot"},
 		{"predicate": {"custom_model_data":60}, "model": "custom/mk/mk-sign"},
-		{"predicate": {"custom_model_data":61}, "model": "custom/mk/mk-sevendwarfs"},
+		{"predicate": {"custom_model_data":61}, "model": "custom/mk/mk-sevendwarfs"}
 	]
 }
