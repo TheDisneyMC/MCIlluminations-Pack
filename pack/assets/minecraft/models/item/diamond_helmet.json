@@ -6,8 +6,8 @@
 		
 	"overrides":[
 	
-		{"predicate": {"custom_model_data":2}, "model": "custom/mk/furhat"},
-		{"predicate": {"custom_model_data":3}, "model": "custom/mk/mouseears"}
+		{"predicate": {"custom_model_data":3}, "model": "custom/mk/furhat"},
+		{"predicate": {"custom_model_data":4}, "model": "custom/mk/mouseears"}
 	]
 }
 
