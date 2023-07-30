@@ -1,2 +1,12 @@
-{"predicate": {"custom_model_data":3}, "model": "custom/mk/furhat"},
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/carved_pumpkin"
+        },
+		
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":3}, "model": "custom/mk/furhat"},
 		{"predicate": {"custom_model_data":4}, "model": "custom/mk/mouseears"}
+	]
+}
