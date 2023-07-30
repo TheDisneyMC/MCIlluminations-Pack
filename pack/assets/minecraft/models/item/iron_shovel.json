@@ -42,5 +42,6 @@
 		{"predicate": {"custom_model_data":52}, "model": "custom/mk/wdw-bigthunderfastsign"},
 		{"predicate": {"custom_model_data":53}, "model": "custom/mk/smallworldsign"},
 		{"predicate": {"custom_model_data":54}, "model": "custom/mk/swordpull"},
+		{"predicate": {"custom_model_data":55}, "model": "custom/mk/bluesaber"}
 	]
 }
