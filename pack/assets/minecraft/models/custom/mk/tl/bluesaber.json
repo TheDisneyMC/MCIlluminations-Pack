@@ -2,14 +2,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "textureanakinlightsaber1",
-		"1": "textureanakinlightsaber2",
-		"2": "textureanakinlightsaber3",
-		"3": "textureanakin lightsaber4",
-		"4": "textureanakinlightsaber5",
-		"5": "textureanakinlightsaber6",
-		"6": "textureanakinlightsaberblade",
-		"particle": "textureanakinlightsaber1"
+		"0": "item/custom/mk/tl/textureanakinlightsaber1",
+		"1": "item/custom/mk/tl/textureanakinlightsaber2",
+		"2": "item/custom/mk/tl/textureanakinlightsaber3",
+		"3": "item/custom/mk/tl/textureanakin lightsaber4",
+		"4": "item/custom/mk/tl/textureanakinlightsaber5",
+		"5": "item/custom/mk/tl/textureanakinlightsaber6",
+		"6": "item/custom/mk/tl/textureanakinlightsaberblade",
+		"particle": "item/custom/mk/tl/textureanakinlightsaber1"
 	},
 	"elements": [
 		{
