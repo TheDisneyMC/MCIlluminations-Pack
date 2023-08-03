@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/custom/mk/honey",
+		"2": "block/yellow_terracotta",
 		"3": "block/brown_terracotta",
 		"4": "block/magenta_terracotta",
 		"5": "block/yellow_terracotta",
-		"6": "item/custom/mk/cyanbase",
-		"particle": "item/custom/mk/honey"
+		"6": "block/cyan_concrete",
+		"particle": "block/yellow_terracotta"
 	},
 	"elements": [
 		{
