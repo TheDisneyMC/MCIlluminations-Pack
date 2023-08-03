@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "item/custom/mk/honey",
-		"3": "item/custom/mk/floor",
+		"3": "block/brown_terracotta",
 		"4": "block/magenta_terracotta",
 		"5": "block/yellow_terracotta",
 		"6": "item/custom/mk/cyanbase",
