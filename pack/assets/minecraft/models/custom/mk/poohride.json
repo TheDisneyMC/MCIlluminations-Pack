@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "Pictures/honey",
-		"3": "Pictures/Screenshots/floor",
-		"4": "Pink",
-		"5": "Hunny",
-		"6": "Pictures/cyanbase",
-		"particle": "Pictures/honey"
+		"2": "item/custom/mk/honey",
+		"3": "item/custom/mk/floor",
+		"4": "item/custom/mk/Pink(1)",
+		"5": "item/custom/mk/Hunny(1)",
+		"6": "item/custom/mk/cyanbase",
+		"particle": "item/custom/mk/honey"
 	},
 	"elements": [
 		{
