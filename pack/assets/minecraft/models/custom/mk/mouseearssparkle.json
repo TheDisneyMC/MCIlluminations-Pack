@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blackbandswag",
-		"2": "thefokinears",
-		"3": "bowbowbow",
-		"4": "sidebowsletsgo",
-		"particle": "blackbandswag"
+		"0": "item/custom/mk/blackbandswag",
+		"2": "item/custom/mk/thefokinears",
+		"3": "item/custom/mk/bowbowbow",
+		"4": "item/custom/mk/sidebowsletsgo",
+		"particle": "item/custom/mk/blackbandswag"
 	},
 	"elements": [
 		{
