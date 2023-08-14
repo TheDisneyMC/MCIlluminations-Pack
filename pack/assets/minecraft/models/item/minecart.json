@@ -17,5 +17,6 @@
 		{"predicate": {"custom_model_data":202}, "model": "custom/mk/tl/speedway-car-red"},
 		{"predicate": {"custom_model_data":203}, "model": "custom/mk/tl/speedway-car-green"},
 		{"predicate": {"custom_model_data":204}, "model": "custom/mk/poohride"}
+		{"predicate": {"custom_model_data":205}, "model": "custom/mk/peterpanpirateship"}
 	]
 }
