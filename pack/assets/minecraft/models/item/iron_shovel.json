@@ -44,5 +44,6 @@
 		{"predicate": {"custom_model_data":54}, "model": "custom/mk/swordpull"},
 		{"predicate": {"custom_model_data":55}, "model": "custom/mk/tl/bluesaber"}
 		{"predicate": {"custom_model_data":56}, "model": "custom/mk/Peter_Pan_Pirate_Ship.json"}
+		
 	]
 }
