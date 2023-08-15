@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/lightblue",
-		"1": "item/custom/mk/sail_cyan",
-		"2": "item/custom/mk/gold",
-		"3": "item/custom/mk/black",
-		"4": "item/custom/mk/lightyellow",
-		"6": "item/custom/mk/sailred",
-		"7": "item/custom/mk/white",
+		"0": "block/light_blue_concrete",
+		"1": "block/cyan_concrete",
+		"2": "block/yellow_concrete",
+		"3": "block/black_concrete",
+		"4": "block/yellow_concrete",
+		"6": "block/red_concrete",
+		"7": "block/white_concrete",
 		"8": "item/custom/mk/ppfwindow",
-		"particle": "item/custom/mk/lightblue"
+		"particle": "block/light_blue_concrete"
 	},
 	"elements": [
 		{
