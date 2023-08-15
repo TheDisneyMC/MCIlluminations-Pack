@@ -18,6 +18,6 @@
 		{"predicate": {"custom_model_data":203}, "model": "custom/mk/tl/speedway-car-green"},
 		{"predicate": {"custom_model_data":204}, "model": "custom/mk/poohride"},
 		{"predicate": {"custom_model_data":205}, "model": "custom/mk/peterpanboat"}
-		{"predicate": {"custom_model_data":206}, "model": "custom/mk/mtp_Magic_kingdom_mint&blue"}
+		{"predicate": {"custom_model_data":206}, "model": "custom/mk/mtp_Magic_kingdom_mint&blue"},
 	]
 }
