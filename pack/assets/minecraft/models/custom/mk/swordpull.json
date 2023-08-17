@@ -1,22 +1,22 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "texturehandle1",
-		"4": "texturehandle2",
-		"5": "texturehandle3",
-		"6": "texturehandle4",
-		"9": "textureblade2",
-		"10": "texturehandle5",
-		"11": "texturehandle6",
-		"12": "texturehandle7",
-		"14": "textureblade1",
-		"15": "textureblade3",
-		"16": "textureblade4",
-		"17": "textureblade5",
-		"18": "texturehandle9",
-		"19": "texturehandle10",
-		"20": "texturehandle11",
-		"particle": "textureblade2"
+		"3": "item/custom/mk/texturehandle1",
+		"4": "item/custom/mk/texturehandle2",
+		"5": "item/custom/mk/texturehandle3",
+		"6": "item/custom/mk/texturehandle4",
+		"9": "item/custom/mk/textureblade2",
+		"10": "item/custom/mk/texturehandle5",
+		"11": "item/custom/mk/texturehandle6",
+		"12": "item/custom/mk/texturehandle7",
+		"14": "item/custom/mk/textureblade1",
+		"15": "item/custom/mk/textureblade3",
+		"16": "item/custom/mk/textureblade4",
+		"17": "item/custom/mk/textureblade5",
+		"18": "item/custom/mk/texturehandle9",
+		"19": "item/custom/mk/texturehandle10",
+		"20": "item/custom/mk/texturehandle11",
+		"particle": "item/custom/mk/textureblade2"
 	},
 	"elements": [
 		{
