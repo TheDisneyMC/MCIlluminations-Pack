@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "item/custom/item/tech/item-tech-smartphone/screen",
-		"1": "item/custom/item/tech/item-tech-smartphone/case",
-		"2": "item/custom/item/tech/item-tech-smartphone/port",
-		"5": "item/custom/item/tech/item-tech-smartphone/logo",
-		"6": "item/custom/item/tech/item-tech-smartphone/backcamera",
-		"7": "item/custom/item/tech/item-tech-smartphone/frontcamera",
-		"particle": "item/custom/item/tech/item-tech-smartphone/screen"
+		"0": "item/custom/item/tech/item/phone/screen",
+		"1": "item/custom/item/tech/item/phone/case",
+		"2": "item/custom/item/tech/item/phone/port",
+		"5": "item/custom/item/tech/item/phone/logo",
+		"6": "item/custom/item/tech/item/phone/backcamera",
+		"7": "item/custom/item/tech/item/phone/frontcamera",
+		"particle": "item/custom/item/tech/item/phone/screen"
 	},
 	"elements": [
 		{
