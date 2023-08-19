@@ -267,12 +267,14 @@
 			"name": "earleft",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [10, 11, 12]
 		},
 		{
 			"name": "earright",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [13, 14, 15]
 		},
 		16
