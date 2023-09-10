@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "band ",
-		"3": "ribbonversion2",
-		"4": "sidestuff",
-		"5": "earsversion2riiansith",
-		"particle": "band "
+		"0": "item/custom/mk/band ",
+		"3": "item/custom/mk/ribbonversion2",
+		"4": "item/custom/mk/sidestuff",
+		"5": "item/custom/mk/earsversion2riiansith",
+		"particle": "item/custom/mk/band "
 	},
 	"elements": [
 		{
