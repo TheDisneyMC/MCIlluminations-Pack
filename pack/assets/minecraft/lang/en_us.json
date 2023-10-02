@@ -2,6 +2,6 @@
   "container.crafting": "",
   "menu.disconnect": "Leave the Park",
   "menu.returnToGame": "Back to the Park",
-  "gui.advancements": "&fEvents",
+  "gui.advancements": "Events",
   "advancements.empty": "Coming Soon!..."
 }
