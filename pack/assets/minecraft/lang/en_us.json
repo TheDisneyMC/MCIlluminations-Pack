@@ -5,7 +5,7 @@
   "gui.advancements": "ShowTimes",
   "advancements.empty": "",
   "advancements.sad_label": "",
-  "item.minecraft.light_gray_dye": "100th MagicBand+",
+  "item.minecraft.gray_dye": "100th MagicBand+",
   "item.minecraft.lapis_lazuli": "50th MagicBand+",
   "item.minecraft.black_dye": "100th MagicBand+ Limited",
   "item.minecraft.blue_dye": "Stitch MagicBand+",
@@ -14,5 +14,6 @@
   "item.minecraft.light_blue_dye": "Figment MagicBand+",
   "item.minecraft.red_dye": "Mickey Mouse Holiday MagicBand+",
   "item.minecraft.yellow_dye": "Winnie the Pooh MagicBand+",
-  "item.minecraft.light_gray_dye": "The Haunted Mansion MagicBand+"
+  "item.minecraft.light_gray_dye": "The Haunted Mansion MagicBand+",
+  "item.minecraft.rabbit_foot": "50th Castle MagicBand+"
 }
