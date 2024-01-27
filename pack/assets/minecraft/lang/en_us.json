@@ -4,5 +4,6 @@
   "menu.returnToGame": "Back to the Park",
   "gui.advancements": "ShowTimes",
   "advancements.empty": "",
-  "advancements.sad_label": ""
+  "advancements.sad_label": "",
+  "item.minecraft.gray_dye": "100th MagicBand+"
 }
