@@ -5,5 +5,6 @@
   "gui.advancements": "ShowTimes",
   "advancements.empty": "",
   "advancements.sad_label": "",
-  "item.minecraft.gray_dye": "100th MagicBand+"
+  "item.minecraft.gray_dye": "100th MagicBand+",
+  "item.minecraft.lapis_lazuli": "Lapis Lazuli"
 }
