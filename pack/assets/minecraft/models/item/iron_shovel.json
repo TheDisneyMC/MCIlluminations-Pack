@@ -13,8 +13,6 @@
 		{"predicate": {"custom_model_data":7}, "model": "custom/item/backpack/item-backpack-mickey-white"},
 		{"predicate": {"custom_model_data":8}, "model": "custom/item/backpack/item-backpack-monsters-inc"},
 		{"predicate": {"custom_model_data":9}, "model": "custom/item/backpack/item-backpack-donald-yellow"},
-		{"predicate": {"custom_model_data":11}, "model": "custom/item/hat/item-hat-mickey-ears"},
-		{"predicate": {"custom_model_data":12}, "model": "custom/item/hat/item-hat-minnie-ears"},
 		{"predicate": {"custom_model_data":17}, "model": "custom/item/tech/item-tech-gameboy"},
 		{"predicate": {"custom_model_data":18}, "model": "custom/item/item-magic-band"},
 		{"predicate": {"custom_model_data":19}, "model": "custom/mk/tl/buzz/mk-tl-buzz-blaster"},
