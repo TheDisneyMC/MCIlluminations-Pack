@@ -9,6 +9,8 @@
 		{"predicate": {"custom_model_data":3}, "model": "custom/mk/furhat"},
 		{"predicate": {"custom_model_data":4}, "model": "custom/mk/mouseears"},
 		{"predicate": {"custom_model_data":5}, "model": "custom/mk/mouseearssparkle"},
-		{"predicate": {"custom_model_data":6}, "model": "custom/mk/mouseearsgold"}
+		{"predicate": {"custom_model_data":6}, "model": "custom/mk/mouseearsgold"},
+		{"predicate": {"custom_model_data":7}, "model": "custom/item/hat/item-hat-mickey-ears"},
+		{"predicate": {"custom_model_data":8}, "model": "custom/item/hat/item-hat-minnie-ears"}
 	]
 }
