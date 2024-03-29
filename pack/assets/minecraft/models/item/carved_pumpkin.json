@@ -16,6 +16,7 @@
 		{"predicate": {"custom_model_data":10}, "model": "custom/item/hat/item-hat-blue"},
 		{"predicate": {"custom_model_data":11}, "model": "custom/item/hat/item-hat-miner"},
 		{"predicate": {"custom_model_data":12}, "model": "custom/item/hat/item-hat-pride"},
-		{"predicate": {"custom_model_data":13}, "model": "custom/item/item-sunglasses"}
+		{"predicate": {"custom_model_data":13}, "model": "custom/item/item-sunglasses"},
+		{"predicate": {"custom_model_data":14}, "model": "custom/item/tie/item-tie-blue"}
 	]
 }
