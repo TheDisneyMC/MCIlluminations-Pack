@@ -18,7 +18,6 @@
 		{"predicate": {"custom_model_data":19}, "model": "custom/mk/tl/buzz/mk-tl-buzz-blaster"},
 		{"predicate": {"custom_model_data":22}, "model": "custom/item/item-tnt"},
 		{"predicate": {"custom_model_data":23}, "model": "custom/item/item-bloody-axe"},
-		{"predicate": {"custom_model_data":26}, "model": "custom/item/tie/item-tie-blue"},
 		{"predicate": {"custom_model_data":29}, "model": "custom/item/flag/item-flag-pride"},
 		{"predicate": {"custom_model_data":31}, "model": "custom/item/backpack/item-backpack-pride"},
 		{"predicate": {"custom_model_data":36}, "model": "custom/item/gun/item-gun"},
