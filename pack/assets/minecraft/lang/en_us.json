@@ -5,5 +5,8 @@
   "gui.advancements": "ShowTimes",
   "advancements.empty": "",
   "advancements.sad_label": "",
-  "item.minecraft.diamond_shovel": "MagicBand+"
+  "item.minecraft.diamond_shovel": "MagicBand+",
+  "attribute.name.generic.attack_damage: "",
+  "attribute.name.generic.attack_knockback: "",
+  "attribute.name.generic.attack_speed: ""
 }
