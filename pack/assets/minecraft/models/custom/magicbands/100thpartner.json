@@ -2,6 +2,6 @@
   "credit": "Made with Blockbench",
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/custom/item/item-magic-band.png"
+    "layer0": "item/custom/nature/chain"
   }
 }
