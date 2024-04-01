@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"block/beacon"},"credit":"Model by MCI"}
+{"parent":"minecraft:item/handheld","textures":{"layer0":"item/magicband/wtp"},"credit":"Model by MCI"}
