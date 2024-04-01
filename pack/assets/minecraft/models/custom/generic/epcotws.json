@@ -1,7 +1,1 @@
-{
-  "credit": "Made with Blockbench",
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "block/beacon"
-  }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"block/beacon"},"credit":"Model by MCI"}
