@@ -2,6 +2,6 @@
   "credit": "Made with Blockbench",
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/magicband/hatboxghost"
+    "layer0": "magicband/hatboxghost"
   }
 }
