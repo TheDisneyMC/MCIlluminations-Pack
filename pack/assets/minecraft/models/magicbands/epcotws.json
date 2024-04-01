@@ -1,7 +1,1 @@
-{
-  "credit": "Made with Blockbench",
-  "parent": "item/diamond_shovel",
-  "textures": {
-    "layer0": "block/beacon"
-  }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"item/magicband/epcotws"},"credit":"Model by MCI"}
