@@ -1,1 +1,1 @@
-{"credit":"Made with Blockbench","parent":"item/generated","textures":{"layer0":"magicband/mickeymouseclub"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"item/magicband/mickeymouseclub"},"credit":"Model by MCI"}
