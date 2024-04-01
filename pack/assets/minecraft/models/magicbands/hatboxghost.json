@@ -1,1 +1,1 @@
-{"credit":"Made with Blockbench","parent":"item/generated","textures":{"layer0":"magicband/hatboxghost"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"item/magicband/hatboxghost"},"credit":"Model by MCI"}
