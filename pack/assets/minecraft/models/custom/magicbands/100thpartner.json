@@ -2,6 +2,6 @@
   "credit": "Made with Blockbench",
   "parent": "item/generated",
   "textures": {
-    "1": "item/custom/100thpartner"
+    "layer0": "item/custom/100thpartner.png"
   }
 }
