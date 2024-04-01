@@ -1,1 +1,1 @@
-{"credit":"Made with Blockbench","parent":"item/generated","textures":{"layer0":"magicband/disney100th"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"item/magicband/disney100th"},"credit":"Model by MCI"}
