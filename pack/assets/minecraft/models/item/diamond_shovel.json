@@ -9,7 +9,7 @@
 		{"predicate": {"custom_model_data":1}, "model": "magicbands/mickeymouseclub"},
 		{"predicate": {"custom_model_data":2}, "model": "magicbands/mickeychristmas"},
 		{"predicate": {"custom_model_data":3}, "model": "magicbands/guardians"},
-		{"predicate": {"custom_model_data":4}, "model": "custom/generic/epcotws"},
+		{"predicate": {"custom_model_data":4}, "model": "magicbands/epcotws"},
 		{"predicate": {"custom_model_data":5}, "model": "magicbands/disney100th"},
 		{"predicate": {"custom_model_data":6}, "model": "magicbands/figmentblue"},
 		{"predicate": {"custom_model_data":7}, "model": "magicbands/wdw50thpartner"},
