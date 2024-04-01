@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "item/magicband/100thpartner"
-  },
-  "credit": "Model by MCI"
-}
+{"parent":"minecraft:item/handheld","textures":{"layer0":"item/magicband/100thpartner"},"credit":"Model by MCI"}
