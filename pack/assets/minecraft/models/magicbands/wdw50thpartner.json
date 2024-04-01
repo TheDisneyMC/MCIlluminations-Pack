@@ -2,6 +2,6 @@
   "credit": "Made with Blockbench",
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/magicband/wdw50thpartner"
+    "layer0": "magicband/wdw50thpartner"
   }
 }
