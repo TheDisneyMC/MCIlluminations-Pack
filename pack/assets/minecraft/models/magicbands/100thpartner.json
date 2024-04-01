@@ -2,6 +2,6 @@
   "credit": "Made with Blockbench",
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/magicband/100thpartner"
+    "0": "item/magicband/100thpartner"
   }
 }
