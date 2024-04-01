@@ -6,19 +6,19 @@
 	
 	"overrides":[
 	
-		{"predicate": {"custom_model_data":1}, "model": "magicbands/mickeymouseclub"},
-		{"predicate": {"custom_model_data":2}, "model": "magicbands/mickeychristmas"},
-		{"predicate": {"custom_model_data":3}, "model": "magicbands/guardians"},
-		{"predicate": {"custom_model_data":4}, "model": "magicbands/epcotws"},
-		{"predicate": {"custom_model_data":5}, "model": "magicbands/disney100th"},
-		{"predicate": {"custom_model_data":6}, "model": "magicbands/figmentblue"},
-		{"predicate": {"custom_model_data":7}, "model": "magicbands/wdw50thpartner"},
-		{"predicate": {"custom_model_data":8}, "model": "magicbands/mickeyhalloween"},
-		{"predicate": {"custom_model_data":9}, "model": "magicbands/hatboxghost"},
-		{"predicate": {"custom_model_data":10}, "model": "magicbands/wtp"},
-		{"predicate": {"custom_model_data":11}, "model": "magicbands/stitch"},
-		{"predicate": {"custom_model_data":12}, "model": "magicbands/100thpartner"},
-		{"predicate": {"custom_model_data":13}, "model": "magicbands/bluemb+"}
+		{"predicate": {"custom_model_data":1}, "model": "custom/magicbands/mickeymouseclub"},
+		{"predicate": {"custom_model_data":2}, "model": "custom/magicbands/mickeychristmas"},
+		{"predicate": {"custom_model_data":3}, "model": "custom/magicbands/guardians"},
+		{"predicate": {"custom_model_data":4}, "model": "custom/magicbands/epcotws"},
+		{"predicate": {"custom_model_data":5}, "model": "custom/magicbands/disney100th"},
+		{"predicate": {"custom_model_data":6}, "model": "custom/magicbands/figmentblue"},
+		{"predicate": {"custom_model_data":7}, "model": "custom/magicbands/wdw50thpartner"},
+		{"predicate": {"custom_model_data":8}, "model": "custom/magicbands/mickeyhalloween"},
+		{"predicate": {"custom_model_data":9}, "model": "custom/magicbands/hatboxghost"},
+		{"predicate": {"custom_model_data":10}, "model": "custom/magicbands/wtp"},
+		{"predicate": {"custom_model_data":11}, "model": "custom/magicbands/stitch"},
+		{"predicate": {"custom_model_data":12}, "model": "custom/magicbands/100thpartner"},
+		{"predicate": {"custom_model_data":13}, "model": "custom/magicbands/bluemb+"}
 		
 	]
 }
