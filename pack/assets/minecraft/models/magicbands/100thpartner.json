@@ -2,6 +2,6 @@
   "credit": "Made with Blockbench",
   "parent": "item/generated",
   "textures": {
-    "0": "block/grass_block"
+    "0": "block/black_terracotta"
   }
 }
