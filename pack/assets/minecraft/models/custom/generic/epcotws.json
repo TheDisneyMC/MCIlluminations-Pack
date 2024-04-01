@@ -1,6 +1,6 @@
 {
   "credit": "Made with Blockbench",
-  "parent": "item/generated",
+  "parent": "item/diamond_shovel",
   "textures": {
     "layer0": "block/beacon"
   }
