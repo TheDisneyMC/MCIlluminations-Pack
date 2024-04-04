@@ -36,6 +36,18 @@
 		{"predicate": {"custom_model_data":63}, "model": "custom/mk/lm/mk-tlm-orange-star"},
 		{"predicate": {"custom_model_data":64}, "model": "custom/mk/lm/mk-tlm-octopus"},
 		{"predicate": {"custom_model_data":65}, "model": "custom/item/settinglogo"},
-		{"predicate": {"custom_model_data":66}, "model": "custom/item/showtime"}
+		{"predicate": {"custom_model_data":66}, "model": "custom/item/showtime"},
+		{"predicate": {"custom_model_data":67}, "model": "custom/item/sdmtlogo"},
+		{"predicate": {"custom_model_data":68}, "model": "custom/item/wtplogo"},
+		{"predicate": {"custom_model_data":69}, "model": "custom/item/ppflogo"},
+		{"predicate": {"custom_model_data":70}, "model": "custom/item/tronlogo"},
+		{"predicate": {"custom_model_data":71}, "model": "custom/item/peoplemoverlogo"},
+		{"predicate": {"custom_model_data":72}, "model": "custom/item/spacemountainlogo"},
+		{"predicate": {"custom_model_data":73}, "model": "custom/item/astrologo"},
+		{"predicate": {"custom_model_data":74}, "model": "custom/item/iaswlogo"},
+		{"predicate": {"custom_model_data":75}, "model": "custom/item/jotlmlogo"},
+		{"predicate": {"custom_model_data":76}, "model": "custom/item/mtplogo"}
+		
+		
 	]
 }
