@@ -46,7 +46,8 @@
 		{"predicate": {"custom_model_data":73}, "model": "custom/item/astrologo"},
 		{"predicate": {"custom_model_data":74}, "model": "custom/item/iaswlogo"},
 		{"predicate": {"custom_model_data":75}, "model": "custom/item/jotlmlogo"},
-		{"predicate": {"custom_model_data":76}, "model": "custom/item/mtplogo"}
+		{"predicate": {"custom_model_data":76}, "model": "custom/item/mtplogo"},
+		{"predicate": {"custom_model_data":77}, "model": "custom/item/tlswlogo"}
 		
 		
 	]
