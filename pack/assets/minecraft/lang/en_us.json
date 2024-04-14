@@ -22,5 +22,7 @@
   "attribute.modifier.equals.2": "",
   "attribute.unknown": "",
   "menu.game": "MCIlluminations",
-  "container.inventory": ""
+  "container.inventory": "",
+  "block.minecraft.cherry_trapdoor": "Silver Trapdoor",
+  "block.minecraft.budding_amethyst": "Tan Brick"
 }
