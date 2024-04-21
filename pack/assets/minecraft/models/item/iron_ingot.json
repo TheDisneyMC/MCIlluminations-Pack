@@ -48,7 +48,8 @@
 		{"predicate": {"custom_model_data":75}, "model": "custom/item/jotlmlogo"},
 		{"predicate": {"custom_model_data":76}, "model": "custom/item/mtplogo"},
 		{"predicate": {"custom_model_data":77}, "model": "custom/item/tlswlogo"},
-		{"predicate": {"custom_model_data":78}, "model": "custom/item/bslogo"}
+		{"predicate": {"custom_model_data":78}, "model": "custom/item/bslogo"},
+		{"predicate": {"custom_model_data":79}, "model": "custom/mk/ms/mk-al-trash-can"}
 		
 		
 	]
