@@ -22,7 +22,7 @@
 		{"predicate": {"custom_model_data":207}, "model": "custom/mk/tl/lightcycle"},
 		{"predicate": {"custom_model_data":208}, "model": "custom/mk/tl/mk-astro"},
 		{"predicate": {"custom_model_data":209}, "model": "custom/mk/tl/troncycleorange"},
-		{"predicate": {"custom_model_data":210}, "model": "custom/mk/big-thunder"}
+		{"predicate": {"custom_model_data":210}, "model": "custom/mk/bigthunder"}
 		
 	]
 }
