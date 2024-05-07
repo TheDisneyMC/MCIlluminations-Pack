@@ -3,7 +3,7 @@
 "texture_size": [32, 32],
 "textures": {
 "0": "block/light_blue_concrete",
-"1": "mkmaptexture",
+"1": "item/custom/mk/mkmaptexture",
 "particle": "block/light_blue_concrete"
 },
 "elements": [
