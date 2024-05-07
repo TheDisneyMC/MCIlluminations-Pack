@@ -4,7 +4,7 @@
 "textures": {
 "0": "block/light_blue_concrete",
 "1": "item/custom/mk/mkmaptexture",
-"particle": "block/light_blue_concrete"
+"particle": "item/custom/mk/mkmaptexture"
 },
 "elements": [
 {
