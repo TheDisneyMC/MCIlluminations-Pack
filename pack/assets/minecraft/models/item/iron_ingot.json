@@ -51,7 +51,9 @@
 		{"predicate": {"custom_model_data":78}, "model": "custom/item/bslogo"},
 		{"predicate": {"custom_model_data":79}, "model": "custom/mk/ms/mk-al-trash-can"},
 		{"predicate": {"custom_model_data":80}, "model": "custom/mk/chicken"},
-		{"predicate": {"custom_model_data":81}, "model": "custom/mk/map"}
+		{"predicate": {"custom_model_data":81}, "model": "custom/mk/map"},
+		{"predicate": {"custom_model_data":82}, "model": "custom/mk/eli"}
+		
 		
 		
 		
