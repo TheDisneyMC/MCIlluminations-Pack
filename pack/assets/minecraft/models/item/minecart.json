@@ -23,7 +23,8 @@
 		{"predicate": {"custom_model_data":208}, "model": "custom/mk/tl/mk-astro"},
 		{"predicate": {"custom_model_data":209}, "model": "custom/mk/tl/troncycleorange"},
 		{"predicate": {"custom_model_data":210}, "model": "custom/mk/aladdin"},
-		{"predicate": {"custom_model_data":211}, "model": "custom/mk/jungle_cruise_boat"}
+		{"predicate": {"custom_model_data":211}, "model": "custom/mk/jungle_cruise_boat"},
+		{"predicate": {"custom_model_data":212}, "model": "custom/mk/pirates_boat"}
 		
 	]
 }
