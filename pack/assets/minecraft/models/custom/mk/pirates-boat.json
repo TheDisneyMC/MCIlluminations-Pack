@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/white_concrete",
+		"0": "block/black_concrete",
 		"1": "block/black_concrete_powder",
 		"2": "block/polished_andesite",
 		"3": "block/light_blue_concrete",
 		"4": "block/brown_mushroom_block",
-		"particle": "block/white_concrete"
+		"particle": "block/black_concrete"
 	},
 	"elements": [
 		{
