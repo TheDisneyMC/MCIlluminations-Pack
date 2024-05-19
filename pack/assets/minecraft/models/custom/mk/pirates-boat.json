@@ -5,7 +5,7 @@
 		"1": "block/black_concrete_powder",
 		"2": "block/polished_andesite",
 		"3": "block/light_blue_concrete",
-		"4": "block/cyan_concrete",
+		"4": "block/stripped_oak_wood",
 		"particle": "block/white_concrete"
 	},
 	"elements": [
