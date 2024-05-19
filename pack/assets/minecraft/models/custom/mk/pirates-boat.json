@@ -4,8 +4,8 @@
 		"0": "block/black_concrete_powder",
 		"1": "block/black_concrete_powder",
 		"2": "block/polished_andesite",
-		"3": "block/light_gray_terracotta",
-		"4": "block/brown_mushroom_block",
+		"3": "block/brown_mushroom_block",
+		"4": "block/light_gray_terracotta",
 		"particle": "block/black_concrete"
 	},
 	"elements": [
