@@ -4,8 +4,8 @@
 		"0": "block/black_concrete",
 		"1": "block/black_concrete_powder",
 		"2": "block/polished_andesite",
-		"3": "block/grass_block",
-		"4": "block/grass_block",
+		"3": "block/stripped_oak_wood",
+		"4": "block/stripped_jungle_wood",
 		"particle": "block/black_concrete"
 	},
 	"elements": [
