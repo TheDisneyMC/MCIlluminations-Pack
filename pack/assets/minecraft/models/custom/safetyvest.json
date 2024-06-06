@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/MCI LOGO",
-		"1": "block/vest",
-		"2": "MCIlluminations_Logo",
-		"3": "block/logo",
-		"4": "block/texture",
-		"particle": "block/MCI LOGO"
+		"0": "item/custom/SV1",
+		"1": "item/custom/SV2",
+		"2": "item/custom/SV3",
+		"3": "item/custom/SV4",
+		"4": "item/custom/SV5",
+		"particle": "item/custom/SV1"
 	},
 	"elements": [
 		{
