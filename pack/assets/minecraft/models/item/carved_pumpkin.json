@@ -18,7 +18,10 @@
 		{"predicate": {"custom_model_data":12}, "model": "custom/item/hat/item-hat-pride"},
 		{"predicate": {"custom_model_data":13}, "model": "custom/item/item-sunglasses"},
 		{"predicate": {"custom_model_data":14}, "model": "custom/item/tie/item-tie-blue"},
-		{"predicate": {"custom_model_data":15}, "model": "custom/hardhat"}
+		{"predicate": {"custom_model_data":15}, "model": "custom/hardhat"},
+		{"predicate": {"custom_model_data":16}, "model": "custom/safetyvest"}
+
+		
 
 		
 	]
