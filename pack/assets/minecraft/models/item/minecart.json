@@ -25,7 +25,7 @@
 		{"predicate": {"custom_model_data":210}, "model": "custom/mk/bigthunder"},
 		{"predicate": {"custom_model_data":211}, "model": "custom/mk/aladdin"},
 		{"predicate": {"custom_model_data":212}, "model": "custom/mk/jungle-cruise-boat"},
-		{"predicate": {"custom_model_data":213}, "model": "custom/mk/pirates-boat"}
-		
+		{"predicate": {"custom_model_data":213}, "model": "custom/mk/pirates-boat"},
+		{"predicate": {"custom_model_data":214}, "model": "custom/mk/bigthundermain"}
 	]
 }
