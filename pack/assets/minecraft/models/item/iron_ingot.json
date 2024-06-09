@@ -58,7 +58,8 @@
 		{"predicate": {"custom_model_data":85}, "model": "custom/item/BTMlogo"},
 		{"predicate": {"custom_model_data":86}, "model": "custom/item/JClogo"},
 		{"predicate": {"custom_model_data":87}, "model": "custom/item/HMlogo"},
-		{"predicate": {"custom_model_data":88}, "model": "custom/item/POTClogo"}
+		{"predicate": {"custom_model_data":88}, "model": "custom/item/POTClogo"},
+		{"predicate": {"custom_model_data":89}, "model": "custom/item/cashregis"}
 		
 		
 	]
