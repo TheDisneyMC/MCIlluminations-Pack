@@ -51,6 +51,12 @@
         {"predicate": {"custom_model_data": 80}, "model": "custom/mk/chicken"},
         {"predicate": {"custom_model_data": 81}, "model": "custom/mk/map"},
         {"predicate": {"custom_model_data": 82}, "model": "custom/mk/eli"},
-        {"predicate": {"custom_model_data": 83}, "model": "custom/mk/piratessign"}
+        {"predicate": {"custom_model_data": 83}, "model": "custom/mk/piratessign"},
+        {"predicate": {"custom_model_data": 84}, "model": "custom/item/amclogo"},
+        {"predicate": {"custom_model_data": 85}, "model": "custom/item/btmlogo"},
+        {"predicate": {"custom_model_data": 86}, "model": "custom/item/jclogo"},
+        {"predicate": {"custom_model_data": 87}, "model": "custom/item/hmlogo"},
+        {"predicate": {"custom_model_data": 88}, "model": "custom/item/potclogo"},
+        {"predicate": {"custom_model_data": 89}, "model": "custom/item/cashregis"}
     ]
 }
