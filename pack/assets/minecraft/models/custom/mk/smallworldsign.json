@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/White_Face",
-		"1": "item/custom/mk/White_unibrow",
-		"2": "item/custom/mk/Gold_nose",
-		"4": "item/custom/mk/Eyes",
-		"5": "item/custom/mk/Cheeks",
-		"7": "item/custom/mk/Gold_smile",
-		"8": "item/custom/mk/Gold_trim",
-		"9": "item/custom/mk/Gold_roof",
-		"10": "item/custom/mk/Gold_dot",
-		"particle": "item/custom/mk/White_Face"
+		"0": "item/custom/mk/white_face",
+		"1": "item/custom/mk/white_unibrow",
+		"2": "item/custom/mk/gold_nose",
+		"4": "item/custom/mk/eyes",
+		"5": "item/custom/mk/cheeks",
+		"7": "item/custom/mk/gold_smile",
+		"8": "item/custom/mk/gold_trim",
+		"9": "item/custom/mk/gold_roof",
+		"10": "item/custom/mk/gold_dot",
+		"particle": "item/custom/mk/white_face"
 	},
 	"elements": [
 		{
