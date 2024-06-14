@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "stripped_spruce_log",
-		"1": "stripped_spruce_log_top",
-		"2": "sandstone_top",
-		"4": "brown_terracotta",
-		"particle": "stripped_spruce_log"
+		"0": "block/stripped_spruce_log",
+		"1": "block/stripped_spruce_log_top",
+		"2": "block/sandstone_top",
+		"4": "block/brown_terracotta",
+		"particle": "block/stripped_spruce_log"
 	},
 	"elements": [
 		{
