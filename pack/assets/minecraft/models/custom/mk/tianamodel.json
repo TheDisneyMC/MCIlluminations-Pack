@@ -5,7 +5,7 @@
 		"1": "block/stripped_spruce_log_top",
 		"2": "block/sandstone_top",
 		"4": "block/brown_terracotta",
-		"particle": "block/stripped_spruce_wood"
+		"particle": "block/stripped_spruce_log"
 	},
 	"elements": [
 		{
