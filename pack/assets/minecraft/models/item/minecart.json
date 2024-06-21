@@ -28,6 +28,7 @@
 		{"predicate": {"custom_model_data":213}, "model": "custom/mk/pirates-boat"},
 		{"predicate": {"custom_model_data":214}, "model": "custom/mk/bigthundermain"},
 		{"predicate": {"custom_model_data":215}, "model": "custom/mk/hauntedmansioncar"},
-		{"predicate": {"custom_model_data":216}, "model": "custom/mk/tianamodel"}
+		{"predicate": {"custom_model_data":216}, "model": "custom/mk/newtianalog"}
+
 	]
 }
