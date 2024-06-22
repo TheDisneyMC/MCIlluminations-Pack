@@ -29,7 +29,7 @@
 		{"predicate": {"custom_model_data":214}, "model": "custom/mk/bigthundermain"},
 		{"predicate": {"custom_model_data":215}, "model": "custom/mk/hauntedmansioncar"},
 		{"predicate": {"custom_model_data":216}, "model": "custom/mk/newtianalog"},
-		{"predicate": {"custom_model_data":217}, "model": "custom/mk/rotrcar"}
+		{"predicate": {"custom_model_data":217}, "model": "custom/hs/rotrcar"}
 
 	]
 }
