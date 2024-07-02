@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mickey christmas 1 ears ",
-		"1": "santa hat for mickey christmas 1 ears",
-		"particle": "mickey christmas 1 ears "
+		"0": "item/custom/mickeychristmas1ears",
+		"1": "item/custom/santahatformickeychristmas1ears",
+		"particle": "item/custom/mickeychristmas1ears"
 	},
 	"elements": [
 		{
