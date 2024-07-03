@@ -58,8 +58,7 @@
         {"predicate": {"custom_model_data": 87}, "model": "custom/item/hmlogo"},
         {"predicate": {"custom_model_data": 88}, "model": "custom/item/potclogo"},
         {"predicate": {"custom_model_data": 89}, "model": "custom/item/cashregis"},
-        {"predicate": {"custom_model_data": 90}, "model": "custom/item/rotrentrance"},
-                {"predicate": {"custom_model_data": 90}, "model": "custom/item/americanflag"}
+        {"predicate": {"custom_model_data": 90}, "model": "custom/item/rotrentrance"}
 
     ]
 }
