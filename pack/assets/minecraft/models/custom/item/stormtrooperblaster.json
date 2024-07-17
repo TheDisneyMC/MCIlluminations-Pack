@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "stormtroopergun",
-		"particle": "stormtroopergun"
+		"0": "item/custom/stormtroopergun",
+		"particle": "item/custom/stormtroopergun"
 	},
 	"elements": [
 		{
