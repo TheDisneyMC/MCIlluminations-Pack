@@ -38,7 +38,6 @@
 	        {"predicate": {"custom_model_data":56}, "model": "custom/item/flag/americanflag"},
 		{"predicate": {"custom_model_data":57}, "model": "custom/item/stormtrooperarm"},
 		{"predicate": {"custom_model_data":58}, "model": "custom/item/stormtrooperblaster"}
-		{"predicate": {"custom_model_data":59}, "model": "custom/item/newmickeyears"}
-
+		
 	]
 }
