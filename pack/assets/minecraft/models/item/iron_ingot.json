@@ -5,7 +5,7 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data": 2}, "model": "custom/mk/tl/mk-tl-trash-can"},
-        {"predicate": {"custom_model_data": 3}, "model": "custom/mk/ms/newtrashcan"},
+        {"predicate": {"custom_model_data": 3}, "model": "custom/mk/ms/newmstrashcan"},
         {"predicate": {"custom_model_data": 5}, "model": "custom/generic/generic-trash-can"},
         {"predicate": {"custom_model_data": 10}, "model": "custom/mk/tl/mi/mk-tl-mi-fastpass-sign"},
         {"predicate": {"custom_model_data": 13}, "model": "custom/item/item-autograph-book"},
