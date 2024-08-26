@@ -59,7 +59,8 @@
         {"predicate": {"custom_model_data": 88}, "model": "custom/item/potclogo"},
         {"predicate": {"custom_model_data": 89}, "model": "custom/item/cashregis"},
         {"predicate": {"custom_model_data": 90}, "model": "custom/item/rotrentrance"},
-        {"predicate": {"custom_model_data": 91}, "model": "custom/item/rotrdoor1"}
+        {"predicate": {"custom_model_data": 91}, "model": "custom/item/rotrdoor1"},
+        {"predicate": {"custom_model_data": 92}, "model": "custom/item/tbalogo"}
 
     ]
 }
