@@ -1,8 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tottexture1",
-		"2": "tottexture2",
+		"1": "totgrits",
+		"2": "tottexture1",
+		"3": "tottexture2",
 		"3": "tottexture3",
 		"particle": "totgrits"
 	},
