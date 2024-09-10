@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hardhattech1",
-		"1": "hardhattech2",
-		"2": "hardhattech3",
-		"4": "hardhattech4",
-		"particle": "hardhattech1"
+		"0": "item/custom/hardhattech1",
+		"1": "item/custom/hardhattech2",
+		"2": "item/custom/hardhattech3",
+		"4": "item/custom/hardhattech4",
+		"particle": "item/custom/hardhattech1"
 	},
 	"elements": [
 		{
