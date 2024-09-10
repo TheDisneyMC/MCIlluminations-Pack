@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Bicycle",
-		"1": "bicyclewheel",
-		"2": "bicyclehandles",
-		"particle": "Bicycle"
+		"0": "item/custom/bicycle",
+		"1": "item/custom/bicyclewheel",
+		"2": "item/custom/bicyclehandles",
+		"particle": "item/custom/bicycle"
 	},
 	"elements": [
 		{
