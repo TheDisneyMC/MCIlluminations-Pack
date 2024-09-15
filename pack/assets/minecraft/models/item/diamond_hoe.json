@@ -18,7 +18,7 @@
 		{"predicate": {"custom_model_data":10}, "model": "magicbands/wtp"},
 		{"predicate": {"custom_model_data":11}, "model": "magicbands/stitch"},
 		{"predicate": {"custom_model_data":12}, "model": "magicbands/100thpartner"},
-		{"predicate": {"custom_model_data":13}, "model": "magicbands/starterband"}
-		
+		{"predicate": {"custom_model_data":13}, "model": "magicbands/starterband"},
+		{"predicate": {"custom_model_data":14}, "model": "magicbands/fantasmicband"}
 	]
 }
