@@ -35,6 +35,6 @@
 		{"predicate": {"custom_model_data":28}, "model": "magicbands/grogu"},
 		{"predicate": {"custom_model_data":29}, "model": "magicbands/starwars"},
 		{"predicate": {"custom_model_data":30}, "model": "magicbands/lionking"},
-		{"predicate": {"custom_model_data":31}, "model": "magicbands/groot"},
+		{"predicate": {"custom_model_data":31}, "model": "magicbands/groot"}
 	]
 }
