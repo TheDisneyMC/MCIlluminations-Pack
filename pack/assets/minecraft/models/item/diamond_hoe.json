@@ -35,6 +35,13 @@
 		{"predicate": {"custom_model_data":27}, "model": "magicbands/grogu"},
 		{"predicate": {"custom_model_data":28}, "model": "magicbands/starwars"},
 		{"predicate": {"custom_model_data":29}, "model": "magicbands/lionking"},
-		{"predicate": {"custom_model_data":30}, "model": "magicbands/groot"}
+		{"predicate": {"custom_model_data":30}, "model": "magicbands/groot"},
+
+		{"predicate": {"custom_model_data":31}, "model": "magicbands/black"},
+		{"predicate": {"custom_model_data":32}, "model": "magicbands/cream"},
+		{"predicate": {"custom_model_data":33}, "model": "magicbands/phv"},
+		{"predicate": {"custom_model_data":34}, "model": "magicbands/jedilightsaber"},
+		{"predicate": {"custom_model_data":35}, "model": "magicbands/red"},
+		{"predicate": {"custom_model_data":36}, "model": "magicbands/r2d2"}
 	]
 }
