@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "custom/item/rotrblinkertext1",
-		"1": "custom/item/rotrblinkertext2",
-		"particle": "custom/item/rotrblinkertext1"
+		"0": "item/custom/rotrblinkertext1",
+		"1": "item/custom/rotrblinkertext2",
+		"particle": "item/custom/rotrblinkertext1"
 	},
 	"elements": [
 		{
