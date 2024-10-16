@@ -3,8 +3,8 @@
 	"parent": "bekchair",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "texturebekchair",
-		"particle": "texturebekchair"
+		"0": "item/custom/bekchair",
+		"particle": "item/custom/bekchair"
 	},
 	"elements": [
 		{
