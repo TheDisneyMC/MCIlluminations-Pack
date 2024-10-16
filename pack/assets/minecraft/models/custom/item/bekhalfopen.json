@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "bekclosed",
-		"2": "bekhalfopen"
+		"1": "item/custom/bekhalfopen",
+		"2": "item/custom/bekhalfopen"
 	},
 	"elements": [
 		{
