@@ -40,7 +40,7 @@
 		{"predicate": {"custom_model_data":58}, "model": "custom/item/stormtrooperblaster"},
 		{"predicate": {"custom_model_data":59}, "model": "custom/bicyclecyan"},
 		{"predicate": {"custom_model_data":60}, "model": "custom/aerialarm"},
-		{"predicate": {"custom_model_data":61}, "model": "custom/item/bekhead1"}
+		{"predicate": {"custom_model_data":61}, "model": "custom/item/bekhead"}
 		
 	]
 }
