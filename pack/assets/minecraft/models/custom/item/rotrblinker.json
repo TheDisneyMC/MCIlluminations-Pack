@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"1": "newrotrblink2",
-		"particle": "rotrblinkeranimation"
+		"1": "item/custom/newrotrblink2",
+		"particle": "item/custom/newrotrblink2"
 	},
 	"elements": [
 		{
