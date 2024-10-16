@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "bekblinknewnew",
-		"particle": "bekeyesopen"
+		"1": "item/custom/bekblinknewnew",
+		"particle": "item/custom/bekblinknewnew"
 	},
 	"elements": [
 		{
