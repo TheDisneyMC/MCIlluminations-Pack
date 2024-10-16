@@ -42,7 +42,7 @@
 		{"predicate": {"custom_model_data":60}, "model": "custom/aerialarm"},
 		{"predicate": {"custom_model_data":61}, "model": "custom/item/bekclosed"},
 		{"predicate": {"custom_model_data":62}, "model": "custom/item/bekhalfopen"},
-		{"predicate": {"custom_model_data":62}, "model": "custom/item/bekopen"}
+		{"predicate": {"custom_model_data":63}, "model": "custom/item/bekopen"}
 		
 	]
 }
