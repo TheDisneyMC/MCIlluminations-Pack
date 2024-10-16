@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/custom/bekmouthnew",
-		"particle": "item/custom/bekmouthnew"
+		"1": "item/custom/bekopen",
+		"particle": "item/custom/bekopen"
 	},
 	"elements": [
 		{
