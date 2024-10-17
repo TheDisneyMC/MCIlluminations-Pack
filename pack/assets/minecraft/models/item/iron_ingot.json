@@ -64,6 +64,8 @@
         {"predicate": {"custom_model_data": 93}, "model": "custom/item/rotrblinker"},
         {"predicate": {"custom_model_data": 94}, "model": "custom/item/tbasink"},
         {"predicate": {"custom_model_data": 95}, "model": "custom/item/bekchair"},
-        {"predicate": {"custom_model_data": 96}, "model": "custom/item/rotrelevwallsanimated"}
+        {"predicate": {"custom_model_data": 96}, "model": "custom/item/rotrelevwallsanimated"},
+        {"predicate": {"custom_model_data": 97}, "model": "custom/item/rotrelevwallswhite"},
+        {"predicate": {"custom_model_data": 98}, "model": "custom/item/rotrelevwallsred"}
     ]
 }
