@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "rotrelevwallswhite",
-		"particle": "rotrelevwallswhite"
+		"2": "item/custom/rotrwallwhite",
+		"particle": "item/custom/rotrwallwhite"
 	},
 	"elements": [
 		{
