@@ -67,6 +67,6 @@
         {"predicate": {"custom_model_data": 96}, "model": "custom/item/rotrwallwhite"},
         {"predicate": {"custom_model_data": 97}, "model": "custom/item/rotrwallred"},
         {"predicate": {"custom_model_data": 98}, "model": "custom/item/rotrwallanimated"},
-        {"predicate": {"custom_model_data": 98}, "model": "custom/item/tbawheel"}
+        {"predicate": {"custom_model_data": 99}, "model": "custom/item/tbawheel"}
     ]
 }
