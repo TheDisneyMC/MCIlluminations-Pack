@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/Wheel",
-		"1": "block/spin part",
-		"particle": "block/Wheel"
+		"0": "item/custom/tbawheel1",
+		"1": "item/custom/tbawheel2",
+		"particle": "item/custom/tbawheel1"
 	},
 	"elements": [
 		{
