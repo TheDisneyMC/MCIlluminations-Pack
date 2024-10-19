@@ -43,8 +43,7 @@
 		{"predicate": {"custom_model_data":61}, "model": "custom/item/bekclosed"},
 		{"predicate": {"custom_model_data":62}, "model": "custom/item/bekhalfopen"},
 		{"predicate": {"custom_model_data":63}, "model": "custom/item/bekopen"},
-		{"predicate": {"custom_model_data":64}, "model": "custom/item/stormtroopergun1newnewnew"},
-		{"predicate": {"custom_model_data":65}, "model": "custom/item/stormtroopergun2"}
+		{"predicate": {"custom_model_data":64}, "model": "custom/item/stormtroopergun1newnewnew"}
 		
 	]
 }
