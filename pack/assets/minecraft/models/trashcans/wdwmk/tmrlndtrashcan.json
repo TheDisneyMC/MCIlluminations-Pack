@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/trashcans/wdwmk/tmrlndtrashcan",
-		"1": "item/trashcans/wdwmk/tmrlndtrashcandoor",
-		"particle": "item/trashcans/wdwmk/tmrlndtrashcan"
+		"0": "tmrlndtrashcan",
+		"1": "trashcandoor",
+		"particle": "tmrlndtrashcan"
 	},
 	"elements": [
 		{
