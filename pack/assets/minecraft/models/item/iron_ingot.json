@@ -69,6 +69,6 @@
         {"predicate": {"custom_model_data": 98}, "model": "custom/item/rotrwallanimated"},
         {"predicate": {"custom_model_data": 99}, "model": "custom/item/tbawheel"},
         {"predicate": {"custom_model_data": 100}, "model": "custom/item/atathead1"},
-        {"predicate": {"custom_model_data": 101}, "model": "custom/item/atatgun"}
+        {"predicate": {"custom_model_data": 101}, "model": "custom/item/atatgunnew"}
     ]
 }
