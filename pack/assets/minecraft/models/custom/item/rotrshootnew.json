@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "rotrshoot",
-		"particle": "starwarsblast"
+		"1": "item/custom/rotrshoot",
+		"particle": "item/custom/starwarsblast"
 	},
 	"elements": [
 		{
