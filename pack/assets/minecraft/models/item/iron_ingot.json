@@ -70,6 +70,7 @@
         {"predicate": {"custom_model_data": 99}, "model": "custom/item/tbawheel"},
         {"predicate": {"custom_model_data": 100}, "model": "custom/item/atathead1"},
         {"predicate": {"custom_model_data": 101}, "model": "custom/item/atatgunnew"},
-        {"predicate": {"custom_model_data": 102}, "model": "custom/item/rotrshootnew"}
+        {"predicate": {"custom_model_data": 102}, "model": "custom/item/rotrshootnew"},
+        {"predicate": {"custom_model_data": 103}, "model": "custom/item/rotrdoor1"}
     ]
 }
