@@ -35,6 +35,6 @@
         {"predicate": {"custom_model_data":27}, "model": "custom/item/food/item-food-macaroons"},
         {"predicate": {"custom_model_data":28}, "model": "custom/item/food/item-food-croissant"},
 	{"predicate": {"custom_model_data":29}, "model": "custom/item/food/item-food-dolwhip"},
-	{"predicate": {"custom_model_data":30}, "model": "custom/item/gebottle1"}
+	{"predicate": {"custom_model_data":30}, "model": "custom/item/gebottle"}
 	]
 }
