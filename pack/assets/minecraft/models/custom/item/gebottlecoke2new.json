@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "gebottle2",
-		"particle": "gebottle1"
+		"1": "item/custom/gebottle2newnew",
+		"particle": "item/custom/gebottle2newnew"
 	},
 	"elements": [
 		{
