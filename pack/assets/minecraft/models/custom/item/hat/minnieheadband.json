@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minnieheadbandtexture1",
-		"1": "minnieheadbandtexture2",
-		"particle": "minnieheadbandtexture1"
+		"0": "item/custom/minnieheadbandtexture1",
+		"1": "item/custom/minnieheadbandtexture2",
+		"particle": "item/custom/minnieheadbandtexture1"
 	},
 	"elements": [
 		{
