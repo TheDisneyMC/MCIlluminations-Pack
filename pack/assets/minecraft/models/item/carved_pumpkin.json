@@ -27,9 +27,8 @@
 		{"predicate": {"custom_model_data":21}, "model": "custom/item/hat/item-hat-newmickeyears"},
 		{"predicate": {"custom_model_data":22}, "model": "custom/hardhattech"},
 		{"predicate": {"custom_model_data":23}, "model": "custom/item/drhatnew"},
-		{"predicate": {"custom_model_data":24}, "model": "custom/item/hat/minnieheadband"}
-
-		
+		{"predicate": {"custom_model_data":24}, "model": "custom/item/hat/minnieheadband"},
+		{"predicate": {"custom_model_data":25}, "model": "custom/item/hat/christmasheadband"}
 
 		
 	]
