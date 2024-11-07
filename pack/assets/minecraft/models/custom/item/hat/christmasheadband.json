@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "item/custom/christmasheadbandtexture1",
 		"1": "item/custom/christmasheadbandtexture2",
-		"particle": "christmasheadbandtexture1"
+		"particle": "item/custom/christmasheadbandtexture1"
 	},
 	"elements": [
 		{
