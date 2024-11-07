@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "christmasheadbandtexture1",
-		"1": "christmasheadbandtexture2",
+		"0": "item/custom/christmasheadbandtexture1",
+		"1": "item/custom/christmasheadbandtexture2",
 		"particle": "christmasheadbandtexture1"
 	},
 	"elements": [
