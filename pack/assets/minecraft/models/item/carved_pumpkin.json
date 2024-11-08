@@ -31,7 +31,9 @@
 		{"predicate": {"custom_model_data":25}, "model": "custom/item/hat/christmasheadband"},
 		{"predicate": {"custom_model_data":26}, "model": "custom/item/hat/christmassantahat"},
 		{"predicate": {"custom_model_data":27}, "model": "custom/item/tbatianaarm"},
-		{"predicate": {"custom_model_data":28}, "model": "custom/item/tbaarm"}
+		{"predicate": {"custom_model_data":28}, "model": "custom/item/tbaarm"},
+		{"predicate": {"custom_model_data":29}, "model": "custom/item/tbatianaarm"}
+
 
 		
 	]
