@@ -33,7 +33,8 @@
 		{"predicate": {"custom_model_data":27}, "model": "custom/item/tbatianaarm"},
 		{"predicate": {"custom_model_data":28}, "model": "custom/item/tbaarm"},
 		{"predicate": {"custom_model_data":29}, "model": "custom/item/tbatianaarm"},
-		{"predicate": {"custom_model_data":30}, "model": "custom/item/tbatianaarm"}
+		{"predicate": {"custom_model_data":30}, "model": "custom/item/tbatianaarm"},
+		{"predicate": {"custom_model_data":30}, "model": "custom/item/louisarm"}
 
 
 
