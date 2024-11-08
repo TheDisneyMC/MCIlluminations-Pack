@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/tbaarm",
-		"particle": "block/tbaarm"
+		"0": "item/custom/tbaarm",
+		"particle": "tbaarm"
 	},
 	"elements": [
 		{
