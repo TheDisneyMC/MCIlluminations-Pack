@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench1",
 	"textures": {
-		"0": "item/custom/tbatiannaarm1",
-		"1": "item/custom/tbatiannaarm2"
-		"particle": "item/custom/tbatiannaarm1"
+		"0": "item/custom/tbatianaarm1",
+		"1": "item/custom/tbatianaarm2"
+		"particle": "item/custom/tbatianaarm1"
 	},
 	"elements": [
 		{
