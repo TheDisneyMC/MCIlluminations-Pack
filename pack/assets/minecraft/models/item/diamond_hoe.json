@@ -42,7 +42,8 @@
 		{"predicate": {"custom_model_data":33}, "model": "magicbands/phv"},
 		{"predicate": {"custom_model_data":34}, "model": "magicbands/jedilightsaber"},
 		{"predicate": {"custom_model_data":35}, "model": "magicbands/red"},
-		{"predicate": {"custom_model_data":36}, "model": "magicbands/r2d2"}
-		{"predicate": {"custom_model_data":37}, "model": "magicbands/munchlings"}
+		{"predicate": {"custom_model_data":36}, "model": "magicbands/r2d2"},
+		{"predicate": {"custom_model_data":37}, "model": "magicbands/munchlings"},
+		{"predicate": {"custom_model_data":38}, "model": "magicbands/wtphoney"}
 	]
 }
