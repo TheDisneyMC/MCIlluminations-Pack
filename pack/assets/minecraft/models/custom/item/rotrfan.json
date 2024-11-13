@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "rotrfananimate",
-		"particle": "rotroutdoorfan"
+		"1": "item/custom/rotrfananimatenew",
+		"particle": "item/custom/rotrfananimatenew"
 	},
 	"elements": [
 		{
