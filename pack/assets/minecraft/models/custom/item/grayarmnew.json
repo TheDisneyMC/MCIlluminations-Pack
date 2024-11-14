@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "grayarmtexture",
-		"particle": "grayarmtexture"
+		"0": "item/custom/grayarmtexture",
+		"particle": "item/custom/grayarmtexture"
 	},
 	"elements": [
 		{
