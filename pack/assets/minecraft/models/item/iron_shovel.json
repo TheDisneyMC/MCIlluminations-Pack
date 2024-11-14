@@ -48,7 +48,8 @@
 		{"predicate": {"custom_model_data":66}, "model": "custom/item/facilierstaff"},
 		{"predicate": {"custom_model_data":67}, "model": "custom/item/rotrwallanimatednewnew"},
 		{"predicate": {"custom_model_data":68}, "model": "custom/item/rotrwallrednew"},
-		{"predicate": {"custom_model_data":69}, "model": "custom/item/rotrwallwhitenew"}
+		{"predicate": {"custom_model_data":69}, "model": "custom/item/rotrwallwhitenew"},
+		{"predicate": {"custom_model_data":70}, "model": "custom/item/grayarm"}
 
 		
 	]
