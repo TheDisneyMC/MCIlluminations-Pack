@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "mswreath",
-		"2": "block/candle",
-		"3": "bow",
-		"particle": "block/candle"
+		"1": "item/christmas/mswreath",
+		"2": "item/christmas/candle",
+		"3": "item/christmas/bow",
+		"particle": "item/christmas/candle"
 	},
 	"elements": [
 		{
