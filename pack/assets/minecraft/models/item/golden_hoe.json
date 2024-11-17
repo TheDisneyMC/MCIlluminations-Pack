@@ -7,6 +7,7 @@
 	"overrides":[
 	
 		{"predicate": {"custom_model_data":1}, "model": "christmas/wdwmk/mswreath"},
-		{"predicate": {"custom_model_data":2}, "model": "christmas/wdwmk/hubwreath"}
+		{"predicate": {"custom_model_data":2}, "model": "christmas/wdwmk/hubwreath"},
+		{"predicate": {"custom_model_data":3}, "model": "christmas/wdwmk/christmasgarland1"}
 	]
 }
