@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "christmasgarland1",
-		"1": "christmasgarland2",
-		"particle": "christmasgarland1"
+		"0": "item/christmas/christmasgarland1",
+		"1": "item/christmas/christmasgarland2",
+		"particle": "item/christmas/christmasgarland1"
 	},
 	"elements": [
 		{
