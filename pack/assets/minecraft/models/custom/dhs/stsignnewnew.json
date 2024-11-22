@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "stsign1new",
-		"1": "stsign2",
-		"2": "stsign3new",
-		"3": "stsign4",
-		"particle": "stsign1new"
+		"0": "item/custom/stsign1new",
+		"1": "item/custom/stsign2",
+		"2": "item/custom/stsign3new",
+		"3": "item/custom/stsign4",
+		"particle": "item/custom/stsign1"
 	},
 	"elements": [
 		{
