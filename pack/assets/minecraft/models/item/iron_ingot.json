@@ -73,6 +73,6 @@
         {"predicate": {"custom_model_data": 102}, "model": "custom/item/rotrshootnew"},
         {"predicate": {"custom_model_data": 103}, "model": "custom/item/rotrdoor1"},
         {"predicate": {"custom_model_data": 104}, "model": "custom/item/rotrfan"},
-        {"predicate": {"custom_model_data": 105}, "model": "custom/dhs/stsignnew"}
+        {"predicate": {"custom_model_data": 105}, "model": "custom/dhs/stsignnewnew"}
     ]
 }
