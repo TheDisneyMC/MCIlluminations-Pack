@@ -2,18 +2,18 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "rotrvehicle1",
-		"1": "rotrvehicle2",
-		"2": "rotrvehicle3",
-		"3": "rotrvehicle4",
-		"4": "rotrvehicle5",
-		"5": "rotrvehicle6",
-		"6": "rotrvehicle7",
-		"7": "rotrvehicle8",
-		"8": "rotrvehicle9",
-		"9": "rotrvehicle10",
-		"10": "rotrvehicle11",
-		"particle": "rotrvehicle1"
+		"0": "item/custom/rotrvehicle1",
+		"1": "item/custom/rotrvehicle2",
+		"2": "item/custom/rotrvehicle3",
+		"3": "item/custom/rotrvehicle4",
+		"4": "item/custom/rotrvehicle5",
+		"5": "item/custom/rotrvehicle6",
+		"6": "item/custom/rotrvehicle7",
+		"7": "item/custom/rotrvehicle8",
+		"8": "item/custom/rotrvehicle9",
+		"9": "item/custom/rotrvehicle10",
+		"10": "item/custom/rotrvehicle11",
+		"particle": "item/custom/rotrvehicle1"
 	},
 	"elements": [
 		{
