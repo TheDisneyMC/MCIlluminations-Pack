@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/custom/rotrvehicledroidbody2",
-		"2": "item/custom/rotrvehicledroidbody3",
-		"particle": "item/custom/rotrvehicledroidbody1"
+		"1": "item/custom/vehicledroidbody2",
+		"2": "item/custom/vehicledroidbody3",
+		"particle": "item/custom/vehicledroidbody1"
 	},
 	"elements": [
 		{
