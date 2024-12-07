@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/rotrvehicledoor",
-		"particle": "item/custom/rotrvehicledoor"
+		"0": "item/custom/rotrvehicledoornew",
+		"particle": "item/custom/rotrvehicledoornew"
 	},
 	"elements": [
 		{
