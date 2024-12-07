@@ -49,7 +49,8 @@
 		{"predicate": {"custom_model_data":67}, "model": "custom/item/rotrwallanimatednewnew"},
 		{"predicate": {"custom_model_data":68}, "model": "custom/item/rotrwallrednew"},
 		{"predicate": {"custom_model_data":69}, "model": "custom/item/rotrwallwhitenew"},
-		{"predicate": {"custom_model_data":70}, "model": "custom/item/grayarmnew"}
+		{"predicate": {"custom_model_data":70}, "model": "custom/item/grayarmnew"},
+		{"predicate": {"custom_model_data":71}, "model": "custom/item/stormtroopergun1"}
 
 		
 	]
