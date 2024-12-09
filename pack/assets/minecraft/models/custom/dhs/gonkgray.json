@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/texturegonkgray",
-		"particle": "block/texturegonkgray"
+		"0": "item/custom/texturegonkgray",
+		"particle": "item/custom/texturegonkgray"
 	},
 	"elements": [
 		{
