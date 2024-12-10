@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"1": "bb8head1",
-		"2": "bb8head2",
-		"particle": "bb8head2"
+		"1": "item/custom/bb8head1",
+		"2": "item/custom/bb8head2",
+		"particle": "item/custom/bb8head2"
 	},
 	"elements": [
 		{
