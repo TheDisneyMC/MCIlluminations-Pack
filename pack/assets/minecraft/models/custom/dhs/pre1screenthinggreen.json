@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pre1screenthingreen",
-		"particle": "pre1screenthingreen"
+		"0": "item/custom/pre1screenthingreen",
+		"particle": "item/custom/pre1screenthingreen"
 	},
 	"elements": [
 		{
