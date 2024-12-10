@@ -3,8 +3,8 @@
 	"parent": "gonktan",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "texturegonktan",
-		"particle": "texturegonktan"
+		"2": "item/custom/texturegonktan",
+		"particle": "item/custom/texturegonktan"
 	},
 	"elements": [
 		{
