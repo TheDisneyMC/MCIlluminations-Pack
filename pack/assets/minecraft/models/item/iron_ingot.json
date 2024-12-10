@@ -86,6 +86,7 @@
         {"predicate": {"custom_model_data": 115}, "model": "custom/dhs/cokedroid"},
         {"predicate": {"custom_model_data": 116}, "model": "custom/dhs/cokedroidhead"},
         {"predicate": {"custom_model_data": 117}, "model": "custom/dhs/cokestandpanew4"},
-        {"predicate": {"custom_model_data": 118}, "model": "custom/dhs/gonkgray"}
+        {"predicate": {"custom_model_data": 118}, "model": "custom/dhs/gonkgray"},
+        {"predicate": {"custom_model_data": 119}, "model": "custom/dhs/gonktan"}
     ]
 }
