@@ -92,6 +92,7 @@
         {"predicate": {"custom_model_data": 121}, "model": "custom/dhs/bb8head"},
         {"predicate": {"custom_model_data": 122}, "model": "custom/dhs/pre1screenthingblue"},
         {"predicate": {"custom_model_data": 123}, "model": "custom/dhs/pre1screenthinggreen"},
-        {"predicate": {"custom_model_data": 124}, "model": "custom/dhs/xwingblue"}
+        {"predicate": {"custom_model_data": 124}, "model": "custom/dhs/xwingblue"},
+        {"predicate": {"custom_model_data": 125}, "model": "custom/dhs/rotrelevdoor1"}
     ]
 }
