@@ -1,8 +1,8 @@
 {
     "providers": [
-        {"type": "bitmap","file": "_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
+        {"type": "bitmap","file": "minecraft:_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
 
-            {"type": "bitmap","file": "_fonts/ranks/owner.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/owner.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/co-owner.png","ascent": 7,"height": 7,"chars": ["ꀁ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/hr.png","ascent": 7,"height": 7,"chars": ["ꀅ"]},
 
