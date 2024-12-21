@@ -25,7 +25,7 @@
 
             {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
 
-            {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀍ"]},
+            {"type": "bitmap","file": "minecraft:_fonts/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꀍ"]},
             {"type": "bitmap","file": "minecraft:_fonts/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀎ"]},
             
 
