@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/custom/item/rotrblinker2animatenew",
+		"2": "item/custom/rotrblinker2animatenew",
 		"particle": "item/custom/rotrblinker2"
 	},
 	"elements": [
