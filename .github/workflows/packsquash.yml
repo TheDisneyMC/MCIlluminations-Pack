@@ -18,13 +18,13 @@ jobs:
       - name: Upload optimized pack
         uses: actions/upload-artifact@v4
         with:
-          name: optimized-pack  # Fix: Uploading artifact before downloading
-          path: pack.zip  # Ensure the correct path is provided
+          name: optimized-pack  # ✅ No spaces, all lowercase
+          path: pack.zip  # ✅ Ensure correct path
 
       - name: Download optimized pack
         uses: actions/download-artifact@v4
         with:
-          name: optimized-pack  # Ensure this matches the uploaded artifact name
+          name: optimized-pack  # ✅ Must match upload step
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
