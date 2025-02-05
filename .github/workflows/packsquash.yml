@@ -1,0 +1,48 @@
+name: Optimize and release resource pack
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  packsquash:
+    name: Optimize resource pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v3
+        with:
+          path: pack
+
+      - name: Verify generated pack.zip
+        run: ls -al /home/runner/work/_temp/packsquash/
+
+      - name: Upload optimized pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: OptimizedPack
+          path: /home/runner/work/_temp/packsquash/pack.zip
+
+      - name: Download optimized pack
+        uses: actions/download-artifact@v4
+        with:
+          name: OptimizedPack
+
+      - name: Generate Hash
+        run: sha1sum pack.zip | head -c 40 > hash.txt
+
+      - name: Copy Pack For Plugin
+        run: cp pack.zip $(cat hash.txt).zip
+
+      - name: Tag and create release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          files: |
+            *.zip
+            hash.txt
