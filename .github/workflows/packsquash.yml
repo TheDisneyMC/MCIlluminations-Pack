@@ -9,14 +9,22 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
+      
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           path: pack
+
+      - name: Upload optimized pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: optimized-pack  # Fix: Uploading artifact before downloading
+          path: pack.zip  # Ensure the correct path is provided
+
       - name: Download optimized pack
         uses: actions/download-artifact@v4
         with:
-          name: optimized-pack
+          name: optimized-pack  # Ensure this matches the uploaded artifact name
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
