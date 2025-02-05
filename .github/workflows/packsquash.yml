@@ -16,7 +16,7 @@ jobs:
       - name: Download optimized pack
         uses: actions/download-artifact@v4
         with:
-          name: Optimize resource pack
+          name: OptimizedPack
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
